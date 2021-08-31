@@ -1,0 +1,8 @@
+C:\Users\Дмитрий\source\repos\CalculatingAreaFigure\CalculatingAreaFigure\bin\Debug\CalculatingAreaFigure.dll
+C:\Users\Дмитрий\source\repos\CalculatingAreaFigure\CalculatingAreaFigure\bin\Debug\CalculatingAreaFigure.pdb
+C:\Users\Дмитрий\source\repos\CalculatingAreaFigure\CalculatingAreaFigure\bin\Debug\MathParser.org-mXparser.dll
+C:\Users\Дмитрий\source\repos\CalculatingAreaFigure\CalculatingAreaFigure\obj\Debug\CalculatingAreaFigure.csprojAssemblyReference.cache
+C:\Users\Дмитрий\source\repos\CalculatingAreaFigure\CalculatingAreaFigure\obj\Debug\CalculatingAreaFigure.csproj.CoreCompileInputs.cache
+C:\Users\Дмитрий\source\repos\CalculatingAreaFigure\CalculatingAreaFigure\obj\Debug\CalculatingAreaFigure.csproj.CopyComplete
+C:\Users\Дмитрий\source\repos\CalculatingAreaFigure\CalculatingAreaFigure\obj\Debug\CalculatingAreaFigure.dll
+C:\Users\Дмитрий\source\repos\CalculatingAreaFigure\CalculatingAreaFigure\obj\Debug\CalculatingAreaFigure.pdb
